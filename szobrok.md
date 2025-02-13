@@ -17,8 +17,9 @@ A " ***Theodor Herzl mini szobor***" Kolodko egyik legfontosabb politikai és t�
 
 
 #### Forrásgyűjtemény:
-- https://szallas.hu/programok/kolodko:-herzl-tivadar-miniszobor-budapest-p9016
 
 - https://welovebudapest.com/en/article/2021/08/19/budapest-new-kolodko-figurine-celebrates-classic-hungarian-dish-lecso/
 
 - https://welovebudapest.com/cikk/2023/01/12/latnivalok-es-kultura-kolodko-szobor-bomban-logo-kis-roka/
+
+- https://szallas.hu/programok/kolodko:-herzl-tivadar-miniszobor-budapest-p9016
