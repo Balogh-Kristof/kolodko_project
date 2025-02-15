@@ -2,7 +2,7 @@
 1. Lecso
 2. Himbálózó Vuk
 3. Theodor Herzl
-4. [Skála Kópé](#4-skála_kópé)
+4. [Skála Kópé](#4-skála-kópé)
 ## 1. **Lecso gastro egér mini szobor**
 [![Egér](https://github.com/Balogh-Kristof/kolodko_project/blob/main/eger.jpg?raw=true "Egér")](https://github.com/Balogh-Kristof/kolodko_project/blob/main/eger.jpg "Egér")
 
