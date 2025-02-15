@@ -1,5 +1,5 @@
 # Szobrok
-1. Lecso
+1. [Lecso](#1-lecso-gastro-egér-mini-szobor)
 2. Himbálózó Vuk
 3. Theodor Herzl
 4. [Skála Kópé](#4-skála-kópé)
