@@ -15,8 +15,12 @@ A " ***Himbálózó Vuk***" Kolodko másik kedvelt alkotása, mely a híres magy
 ## 3. **Theodor Herzl mini szobor**
 [![Herzl](https://github.com/Balogh-Kristof/kolodko_project/blob/main/herzl.jpg?raw=true "Herzl")](http:/https://github.com/Balogh-Kristof/kolodko_project/blob/main/herzl.jpg/ "Herzl")
 
-A " ***Theodor Herzl mini szobor***" Kolodko egyik legfontosabb politikai és történelmi jelentőségű alkotása. Herzl, mint a modern zsidó állam megálmodója, a sionizmus atyjának számít. A szobor apró mérete ellenére hatalmas jelentőséggel bír, hiszen **Herzl munkássága elindította a zsidó nemzeti identitás megújítását és a zsidó állam megalapításához vezető utat**. Budapest belvárosában elhelyezett mini szobor arra emlékeztet, hogy a történelem és a politika gyakran apró gesztusokban és műalkotásokban is kifejezésre juthat.
+A " ***Theodor Herzl mini szobor***" Kolodko egyik legfontosabb politikai és történelmi jelentőségű alkotása. Herzl a modern zsidó állam megálmodója. A szobor apró mérete ellenére hatalmas jelentőséggel bír, hiszen **Herzl munkássága elindította a zsidó nemzeti identitás megújítását és a zsidó állam megalapításához vezető utat**. Budapest belvárosában elhelyezett mini szobor arra emlékeztet, hogy a történelem és a politika gyakran apró gesztusokban és műalkotásokban is kifejezésre juthat.
 
+## 4. Skála Kópé
+[![Skala](https://github.com/Balogh-Kristof/kolodko_project/blob/main/IMG_20250214_105353.jpg?raw=true)](http://https://github.com/Balogh-Kristof/kolodko_project/blob/main/IMG_20250214_105353.jpg)
+
+Kolodko Mihály "***Skála Kópé***" című szobra egy kis bronzfigura, mely a híres budapesti Skála üzletház előtt áll. **A szobor egy játékos, vidám kópé karaktert ábrázol, mely a város szellemiségét és a magyar humor hagyományait idézi.**
 
 
 #### Forrásgyűjtemény:
@@ -26,3 +30,5 @@ A " ***Theodor Herzl mini szobor***" Kolodko egyik legfontosabb politikai és t�
 - https://welovebudapest.com/cikk/2023/01/12/latnivalok-es-kultura-kolodko-szobor-bomban-logo-kis-roka/
 
 - https://szallas.hu/programok/kolodko:-herzl-tivadar-miniszobor-budapest-p9016
+
+- https://www.origo.hu/gazdasag/2024/01/skala-aruhaz-retro-rekamfigura
