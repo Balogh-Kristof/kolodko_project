@@ -27,7 +27,7 @@ A tér közepét díszíti a Danubius-kút, amelynek a második világháborúba
 1946-ban a készült el a Szabadság téren a Szovjet hősi emlékmű, amely Antal Károly műve. Az egykori Tőzsdepalota elé Kisfaludi Strobl Zsigmond alkotása, „A nagy Sztálinnak a hálás magyar nép” elnevezésű szobor került. Az 1950-ben felavatott alkotást 1956-ban felrobbantották. Az ötvenes években épült ki a részben a tér alatt elterülő Rákosi-bunker, melynek szellőztetője ma is látható az egykori TV-székház előtt.
 
 
-##Forrásjegyzék
+## Forrásjegyzék
 
 -https://hu.wikipedia.org/wiki/Erzsébet_királyné_budapesti_emlékműve
  
