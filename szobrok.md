@@ -1,6 +1,6 @@
 # Szobrok
 1. [Lecso](#1-lecso-gastro-egér-mini-szobor)
-2. [Himbálózó Vuk](2-himbálózó-vuk-mini-szobor)
+2. [Himbálózó Vuk](#2-himbálózó-vuk-mini-szobor)
 3. [Theodor Herzl](#3-theodor-herzl-mini-szobor)
 4. [Skála Kópé](#4-skála-kópé)
 ## 1. **Lecso gastro egér mini szobor**
