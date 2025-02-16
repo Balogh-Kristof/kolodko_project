@@ -5,6 +5,8 @@
 4. [Skála Kópé](#4-skála-kópé)
 5. [Szomorú Tank](#5-szomorú-tank)
 6. [Főkukac](#6-főkukac)
+7. [Helyek: Dohány utcai zsinagóga](#dohány-utcai-zsinagóga)
+8. [Heyek: Gellért Szobor](#gellért-szobor)
 ## 1. **Lecso gastro egér mini szobor**
 [![Egér](https://github.com/Balogh-Kristof/kolodko_project/blob/main/eger.jpg?raw=true "Egér")](https://github.com/Balogh-Kristof/kolodko_project/blob/main/eger.jpg "Egér")
 ![Messenger_creation_C76B906B-0B04-4516-9F24-3D22C9F49613](https://github.com/user-attachments/assets/16180f61-5488-489e-bf56-a49af0fcf9ad)
@@ -36,6 +38,18 @@ A "***Kolodko Szomorú Tank***" szobor egy erőteljes műalkotás, amely a hábo
 ![Messenger_creation_FED87B51-B71C-4F51-86CC-09344E739575](https://github.com/user-attachments/assets/a3429942-8122-4eaf-a38e-acc67b31081f)
 
 Kolodko Mihály gyermekként imádta a Nagy ho-ho-ho horgász rajzfilmsorozatot, és amikor 6 évvel ezelőtt Ungvárról Budapestre költözött, tudta, hogy ennek a kapcsolódásnak és **gyermekkori kedvenc sorozatának az emlékére - elmondása szerint a Nagy ho-ho-ho horgász rajzfilmsorozatból tanult meg magyarul - szobrot fog készteni.** Ez a miniszobor lett a "***Főkukac***", melynek végleges helyszíne egy hétvégi, gyermekével történt Duna-parti sétája során vált egyértelművé.
+
+#Helyek
+
+## Dohány utcai zsinagóga
+[![zsinagóga](https://github.com/Balogh-Kristof/kolodko_project/blob/main/dohany_kul1.jpg?raw=true "zsinagóga")](http://https://github.com/Balogh-Kristof/kolodko_project/blob/main/dohany_kul1.jpg "zsinagóga")
+
+A **Nagy zsinagóga** Budapest VII. kerületében, a Dohány utcában, **a magyar  zsidóság legnagyobb zsinagógája, illetve a legnagyobb egész Európában.** Az egykori zsidónegyedben áll, ahol ma is sok zsidó vallású ember él, akik a hagyományokat mindmáig őrzik.
+
+## Gellért szobor
+[![](https://private-user-images.githubusercontent.com/186258446/413563681-1c12316e-19b1-47a8-891c-d9b65c469e64.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk3MTQ4NDksIm5iZiI6MTczOTcxNDU0OSwicGF0aCI6Ii8xODYyNTg0NDYvNDEzNTYzNjgxLTFjMTIzMTZlLTE5YjEtNDdhOC04OTFjLWQ5YjY1YzQ2OWU2NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNlQxNDAyMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZmRkNzhjYzkyMDYyOGI2OGI3YjEyMWQxNWM3NjFjMmZmNTU1YWQ4ZjE3NDNkZDlhNjAwMzY0Yzc3YWM3MTVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tf4RkLKZ-vgFIxdIXOv-AQRoXco4Xa5326VP3nFKy5I)](http://https://private-user-images.githubusercontent.com/186258446/413563681-1c12316e-19b1-47a8-891c-d9b65c469e64.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk3MTQ4NDksIm5iZiI6MTczOTcxNDU0OSwicGF0aCI6Ii8xODYyNTg0NDYvNDEzNTYzNjgxLTFjMTIzMTZlLTE5YjEtNDdhOC04OTFjLWQ5YjY1YzQ2OWU2NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNlQxNDAyMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZmRkNzhjYzkyMDYyOGI2OGI3YjEyMWQxNWM3NjFjMmZmNTU1YWQ4ZjE3NDNkZDlhNjAwMzY0Yzc3YWM3MTVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tf4RkLKZ-vgFIxdIXOv-AQRoXco4Xa5326VP3nFKy5I)
+
+A ***Gellért-szobrot ***1904-ben készítette el Jankovits Gyula, a szent jobbjában ég felé emelt kereszttel, bal kezét szívén tartva szónokolva, lábánál a megtért vitéz kőből faragott szobrával. A szoborkompozíciót **arra a helyre tervezték, ahol Gellért püspök vértanúhalált halt a pogány Vata-féle lázadás alatt.** A szobor egyike az I. Ferenc József magyar király által adományozott tíz szobornak. Eredetileg háromméteresre terveztek, ezt később növelték meg hét méterre, hogy jobban elkülönüljön a hegy hátterétől. A szobor az 1901–1902-ben épült díszes lépcsősoron közelíthető meg az Erzsébet híd és a Hegyalja út irányából.
 
 #### Forrásgyűjtemény:
 
