@@ -46,7 +46,7 @@ A több, mint 120 éves New York Kávéház történelme valóban összeforr az 
 
 ## Szintúgy a Theodor Herzl miniszobor mellett található a Dogány utcai Zsinagóga.
 
- A Nagy zsinagóga Budapest VII. kerületében, a Dohány utcában, a magyar neológ zsidóság legnagyobb zsinagógája, illetve a legnagyobb egész Európában. Az egykori zsidónegyedben áll, ahol ma is sok zsidó vallású ember él, akik a hagyományokat mindmáig őrzik.
+ A Nagy zsinagóga Budapest VII. kerületében, a Dohány utcában, a magyar zsidóság legnagyobb zsinagógája, illetve a legnagyobb egész Európában. Az egykori zsidónegyedben áll, ahol ma is sok zsidó vallású ember él, akik a hagyományokat mindmáig őrzik.
  
 ## Az úton a Skála Kópé miniszoborhoz, találkozni fognak a Erzsébet térrel, és az ott lévő Danubius kúttal.
 
