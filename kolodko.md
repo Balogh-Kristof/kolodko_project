@@ -77,3 +77,11 @@ A tér közepét díszíti a Danubius-kút, amelynek a második világháborúba
 *Kolodko Mihály hivatalos oldala: https://kolodkoart.com/*
 
 ------------
+
+------------
+
+
+*https://prezi.com/view/hbg8cMnfTF1HnE0gMVc4/*
+
+------------
+
