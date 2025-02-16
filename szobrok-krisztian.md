@@ -32,3 +32,10 @@ A Kolodko Lecsó szobor egy szórakoztató és kulturálisan gazdag műalkotás,
 ![20250214_153219](https://github.com/user-attachments/assets/31a16e6a-a205-4307-9c97-2de469d3c8fe)
 
 A Kolodko Szomorú Tank szobor egy erőteljes műalkotás, amely a háború pusztító hatásait és az emberi szenvedést ábrázolja. Kolodko Mihály a tankot nemcsak háborús gépezetként, hanem a háború után maradt fájdalom és szomorúság szimbólumaként jeleníti meg. A „szomorú” jelző a gép gépies, érzelem nélküli voltára utal, miközben figyelmeztet arra, hogy a háborúban az eszközök mögött mindig ott vannak az emberek, akik szenvednek. A szobor a béke iránti vágyat is kifejezi, és társadalmi üzenetet hordoz: a háború fájdalma mindannyiunkat érinti, és a béke megőrzése elengedhetetlen
+
+
+
+
+![image](https://github.com/user-attachments/assets/12ffc830-cd24-46a3-8fb2-57f48387f651)
+
+
