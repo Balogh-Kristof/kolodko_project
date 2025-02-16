@@ -3,6 +3,8 @@
 2. [Himbálózó Vuk](#2-himbálózó-vuk-mini-szobor)
 3. [Theodor Herzl](#3-theodor-herzl-mini-szobor)
 4. [Skála Kópé](#4-skála-kópé)
+5. [Szomorú Tank](5-szomorú-tank)
+6. [Főkukac](6-főkukac)
 ## 1. **Lecso gastro egér mini szobor**
 [![Egér](https://github.com/Balogh-Kristof/kolodko_project/blob/main/eger.jpg?raw=true "Egér")](https://github.com/Balogh-Kristof/kolodko_project/blob/main/eger.jpg "Egér")
 ![Messenger_creation_C76B906B-0B04-4516-9F24-3D22C9F49613](https://github.com/user-attachments/assets/16180f61-5488-489e-bf56-a49af0fcf9ad)
