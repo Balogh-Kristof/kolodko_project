@@ -1,7 +1,7 @@
-#Feladatok:
+# Feladatok:
 
 
-#Kristóf:
+# Kristóf:
 - 4 db fotó, hozzá leírás
 - Prezentáció
 - Krisztián szövegének átírása
@@ -9,7 +9,7 @@
 - forrásgyűjtés, kutatás
 - Feladatlista összeállítása
 
-#Krisztián:
+# Krisztián:
 - 4 db fotó, hozzá leírás
 - Kolodkó élete
 - létezés
