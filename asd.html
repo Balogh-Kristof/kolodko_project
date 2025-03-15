@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Maps Route</title>
+    <style>
+        #map {
+            height: 100%;
+            width: 100%;
+            position: absolute;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeaIixnGKbUS8d1ijgj41USoxCBoOH_pY&callback=initMap&libraries=directions&v=weekly" 
+    async defer></script>
+
+    <script>
+        let map;
+        let directionsService;
+        let directionsRenderer;
+        let userLocation;
+
+        function initMap() {
+            directionsService = new google.maps.DirectionsService();
+            directionsRenderer = new google.maps.DirectionsRenderer();
+
+            // Initialize the map
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 14,
+                mapTypeId: 'roadmap'
+            });
+
+            directionsRenderer.setMap(map);
+
+            // Ask for user location permission
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    userLocation = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                    map.setCenter(userLocation);
+                    calculateAndDisplayRoute(userLocation);
+                }, function() {
+                    alert("Geolocation permission denied or not available.");
+                });
+            } else {
+                alert("Geolocation is not supported by this browser.");
+            }
+        }
+
+        function calculateAndDisplayRoute(userLocation) {
+            // Define the stop points
+            const waypoints = [
+                { location: new google.maps.LatLng(47.51054928835728, 19.055881119335066), stopover: true },
+                { location: new google.maps.LatLng(47.49599864951878, 19.05838617292648), stopover: true },
+                { location: new google.maps.LatLng(47.489364914772665, 19.04695279846031), stopover: true },
+                { location: new google.maps.LatLng(47.4920566745035, 19.047012240799557), stopover: true },
+                { location: new google.maps.LatLng(47.5056183416776, 19.040303064340826), stopover: true },
+                { location: new google.maps.LatLng(47.50851149745279, 19.039924264515815), stopover: true }
+            ];
+
+            // Define the route
+            directionsService.route({
+                origin: userLocation,
+                destination: userLocation, // Set the destination to the last stop point (could be changed if desired)
+                waypoints: waypoints,
+                travelMode: google.maps.TravelMode.DRIVING,
+                optimizeWaypoints: true
+            }, function(response, status) {
+                if (status === google.maps.DirectionsStatus.OK) {
+                    directionsRenderer.setDirections(response);
+                } else {
+                    alert('Directions request failed due to ' + status);
+                }
+            });
+        }
+    </script>
+</body>
+</html>
