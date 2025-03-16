@@ -171,3 +171,14 @@ footer {
     margin-top: 10px; /* Kis térköz a kép és a szöveg között */
     text-align: justify;
 }
+.asdasd{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
