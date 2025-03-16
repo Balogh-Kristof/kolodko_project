@@ -8,6 +8,10 @@
 - 1db látványosság (képpel) + 3db látványosság (útvonalhoz)
 - forrásgyűjtés, kutatás
 - Feladatlista összeállítása
+- Weboldal elkészítése
+- Drótváz
+- Grafikai előkészületek
+- -Esszé
 
 # Krisztián:
 - 4 db fotó, hozzá leírás
@@ -15,3 +19,5 @@
 - létezés
 - 1db látványosság (képpel) + 3db látványosság (útvonalhoz)
 - Térkép megcsinálása
+- Esszé
+- Prezentáció 2
