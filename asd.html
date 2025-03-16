@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sculpture Gallery</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <header class="bg-light py-3">
+        <nav class="navbar navbar-expand-lg navbar-light container">
+            <a class="navbar-brand" href="#hero">Sculpture Gallery</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#hero">Kezdőlap</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#gallery">Galéria</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#artist">Alkotó</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#terkep">Útvonal</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    
+    <section id="hero" class="text-center p-5 bg-light">
+        <div class="container">
+            <h1>Fedezz fel újszerű szobrokat</h1>
+            <p>Kézzel készített műszobrok mély jelentéssel</p>
+            <a href="#gallery" class="btn btn-dark">Kollekció megtekintése</a>
+        </div>
+    </section>
+    
+    <section id="gallery" class="container my-5">
+        <h2 class="text-center">Galéria</h2>
+        <div class="d-flex justify-content-center gap-2 my-3">
+            <button class="btn btn-outline-dark" data-filter="all">All</button>
+            <button class="btn btn-outline-dark" data-filter="krisztian">Krisztiáné</button>
+            <button class="btn btn-outline-dark" data-filter="kristof">Kristófé</button>
+        </div>
+        <div class="row sculpture-grid"></div>
+    </section>
+    
+    <section id="artist" class="container my-5">
+        <h2 class="text-center">Ismerd meg a készítőt</h2>
+        <div class="row align-items-center">
+            <div class="col-md-4 text-center">
+                <img src="kepek/egyeb/ZSL2331_.jpg" alt="Kolodkó Mihály" class="img-fluid rounded-circle">
+                <h3>Kolodko Mihály</h3>
+            </div>
+            <div class="col-md-8">
+                <p class="text">
+                    Kolodko Mihály, a kortárs magyar szobrász és művész, munkásságával új dimenziókat nyitott a magyar szobrászat világában. Az ő művészete nemcsak a hagyományos szobrászati technikák alkalmazásában, hanem a művészet és társadalom közötti párbeszéd folytatásában is jelentőségteljes. Kolodko szobrai gyakran egyszerűek és közvetlenek, ugyanakkor mélyebb, filozófiai és szociális üzeneteket hordoznak, amelyek képesek elgondolkodtatni a nézőket. Művészetében a szobrok nem csupán a forma és a kompozíció játékai, hanem társadalmi és kultúrális kérdésekre adott válaszok, amelyek komoly üzenetet közvetítenek. <br><br>
+                                        Kolodko szobrászati pályafutása több évtizedes múltra tekint vissza, és művein keresztül olyan mélyen emberi és társadalmi problémákra reflektál, mint a háború, a társadalmi felelősség, a közösségi értékek és az identitás kérdései. Egyes műveiben, mint például a híres „Szomorú Tank” vagy a „Lecsó” szobor, Kolodko a magyar történelem és kultúra jellegzetes szimbólumait ábrázolja, de nemcsak tisztelgésként, hanem a múlt fájdalmas emlékeit és a jövőre vonatkozó figyelmeztetésként is. Művei azoknak is szólnak, akik hajlamosak elfelejteni, hogy a művészet nem csupán szórakoztatás, hanem a társadalom tükröződése is.<br><br>
+                                        Kolodko szobrai számos híres és fontos köztéri alkotás közé tartoznak, és különösen figyelemre méltóak, mivel képesek kapcsolatot építeni a közönséggel. Az alkotások gyakran elgondolkodtató, provokatív üzeneteket közvetítenek, miközben lehetőséget adnak arra, hogy a nézők saját értelmezésük szerint kapcsolódjanak hozzájuk. E szobrok nem csupán szemlélődésre késztetnek, hanem arra is, hogy a nézők a világban való szerepükről és felelősségükről gondolkodjanak. <br><br>
+                                    Kolodko szobrászati pályafutása több évtizedes múltra tekint vissza, és művein keresztül olyan mélyen emberi és társadalmi problémákra reflektál, mint a háború, a társadalmi felelősség, a közösségi értékek és az identitás kérdései. Egyes műveiben, mint például a híres „Szomorú Tank” vagy a „Lecsó” szobor, Kolodko a magyar történelem és kultúra jellegzetes szimbólumait ábrázolja, de nemcsak tisztelgésként, hanem a múlt fájdalmas emlékeit és a jövőre vonatkozó figyelmeztetésként is. Művei azoknak is szólnak, akik hajlamosak elfelejteni, hogy a művészet nem csupán szórakoztatás, hanem a társadalom tükröződése is. <br><br>
+                                    Kolodko szobrai számos híres és fontos köztéri alkotás közé tartoznak, és különösen figyelemre méltóak, mivel képesek kapcsolatot építeni a közönséggel. Az alkotások gyakran elgondolkodtató, provokatív üzeneteket közvetítenek, miközben lehetőséget adnak arra, hogy a nézők saját értelmezésük szerint kapcsolódjanak hozzájuk. E szobrok nem csupán szemlélődésre késztetnek, hanem arra is, hogy a nézők a világban való szerepükről és felelősségükről gondolkodjanak.</p>
+            </div>
+        </div>
+    </section>
+    
+    <section id="terkep" class="container my-5 text-center">
+        <h2>A szobrok helyszínei</h2>
+        <iframe width="100%" height="450" frameborder="0" style="border:0;" src="https://www.google.com/maps/d/embed?mid=1pi1UTqc8zfxu1tGgaKZhCPlyD6pI9DY&usp=sharing" allowfullscreen></iframe>
+    </section>
+    
+    <footer class="text-center py-3 bg-light">
+        <p>&copy; 2025 Sculpture Gallery</p>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
