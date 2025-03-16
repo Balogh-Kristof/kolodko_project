@@ -3,14 +3,14 @@ document.addEventListener("DOMContentLoaded", function () {
     var filterButtons = document.querySelectorAll(".filters button");
     
     var sculptures = [
-        { name: "Vuk szobor", img: "\\kepek\\kristof\\vuk.jpg", category: "kristof" },
-        { name: "Lecsó szobor", img: "\\kepek\\kristof\\eger.jpg", category: "kristof" },
-        { name: "Theodor Herzl szobor", img: "\\kepek\\kristof\\herzl.jpg", category: "kristof" },
-        { name: "Skála Kópé szobor", img: "\\kepek\\kristof\\IMG_20250214_105353.jpg", category: "kristof" },
-        { name: "Főkukac szobor", img: "\\kepek\\krisztian\\fekvo.jpg", category: "krisztian" },
-        { name: "Lecsó szobor", img: "\\kepek\\krisztian\\lecso.jpg", category: "krisztian" },
-        { name: "Szomorú Tank Szobor", img: "\\kepek\\krisztian\\tank.jpg", category: "krisztian" },
-        { name: "Vuk szobor", img: "\\kepek\\krisztian\\vuk.jpg", category: "krisztian" },
+        { name: "Vuk szobor", img: "kepek\\kristof\\vuk.jpg", category: "kristof" },
+        { name: "Lecsó szobor", img: "kepek\\kristof\\eger.jpg", category: "kristof" },
+        { name: "Theodor Herzl szobor", img: "kepek\\kristof\\herzl.jpg", category: "kristof" },
+        { name: "Skála Kópé szobor", img: "kepek\\kristof\\IMG_20250214_105353.jpg", category: "kristof" },
+        { name: "Főkukac szobor", img: "kepek\\krisztian\\fekvo.jpg", category: "krisztian" },
+        { name: "Lecsó szobor", img: "kepek\\krisztian\\lecso.jpg", category: "krisztian" },
+        { name: "Szomorú Tank Szobor", img: "kepek\\krisztian\\tank.jpg", category: "krisztian" },
+        { name: "Vuk szobor", img: "kepek\\krisztian\\vuk.jpg", category: "krisztian" },
     ];
 
     function showGallery(filter) {
