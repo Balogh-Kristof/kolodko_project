@@ -11,13 +11,14 @@
 - Weboldal elkészítése
 - Drótváz
 - Grafikai előkészületek
-- -Esszé
+- Esszé
+- Prezentáció 2
+- Térkép megcsinálása
 
 # Krisztián:
 - 4 db fotó, hozzá leírás
 - Kolodkó élete
 - létezés
 - 1db látványosság (képpel) + 3db látványosság (útvonalhoz)
-- Térkép megcsinálása
-- Esszé
-- Prezentáció 2
+
+
