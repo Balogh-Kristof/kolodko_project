@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () { //oldal betöltésekor működjön
+document.addEventListener("DOMContentLoaded", function () { //oldal betöltésekor működjön. addEventListener = esemenykezelo. domcontentloaded = mikor az oldal alap váza be van toltve de a kulso vackok, pl css, kepek stb nincs meg betoltve
     var gallery = document.querySelector(".sculpture-grid"); //gallery = a .sculpture grid class cuccai
     var filterButtons = document.querySelectorAll(".filters button"); // a filterbuttonok = a .filter calssban minden button
     
