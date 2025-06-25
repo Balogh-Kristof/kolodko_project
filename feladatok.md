@@ -13,6 +13,7 @@
 - Grafikai előkészületek
 - Esszé
 - Prezentáció 2
+- Csöves Krisztián megleckeztetese
 - Térkép megcsinálása
 
 # Krisztián:
